@@ -1,0 +1,15 @@
+{
+  "name": "temmie",
+  "version": "1.0.0",
+  "description": "hOi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "temmie",
+    "undertale"
+  ],
+  "author": "Lykakspars <lykaspars@gmail.com>",
+  "license": "MIT"
+}
