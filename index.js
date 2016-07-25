@@ -1,3 +1,4 @@
+// TODO: sliently unremove temfie.
 ﻿exports.temfie = function(str) {
 	str = " "+str+" ";
 	str = str.toLowerCase();
